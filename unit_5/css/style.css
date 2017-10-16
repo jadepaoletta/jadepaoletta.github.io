@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Condensed');
+
+header{
+	margin: -0.5em 1em -1em 1em;
+	background: #FFED74;
+}
+h1{
+	font-size: 4.5em;
+	text-align: center;
+}
+nav{
+	text-align: center;
+	background: #E8C66A;
+}
+ul{
+	list-style-type: none;
+	display: -webkit-inline-box;
+}
+li{
+	font-size: 1.2em;
+	padding: 0 1.5em 1em 1.5em;
+}
+body{
+	font-family: Lato;
+}
+
+img{
+	width: 60%;
+	display: block;
+    margin: auto;
+}
+h3{
+	font-size: 2em;
+}
+aside{
+	background: #FFC675;
+}
+article{
+	background: #E89C6C;
+}
+footer{
+	background: #FF957E;
+}
+div, section{
+	background: #FFE2B8;
+}
